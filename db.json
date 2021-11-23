@@ -1,11 +1,11 @@
 {
   "conta": {
-    "saldo": 0
+    "saldo": 1000
   },
   "transacoes": [
     {
       "transacao": "deposito",
-      "valor": "1000",
+      "valor": "20",
       "data": "22/11/2021",
       "id": 1
     }
